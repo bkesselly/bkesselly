@@ -6,7 +6,7 @@
   - [Creating a Live SOC/ Honeynet in Azure](https://github.com/bkesselly/Portfolio/tree/main/SOC%20%2B%20Honeynet%20in%20Azure)
 
 - <b>Python</b>
-  - [Password Generator (CLI & GUI)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Password Generator (CLI & GUI)](https://github.com/bkesselly/Portfolio/tree/main/Password%20Generator)
 
 <h2> 🤳 Connect with me:</h2>
 
