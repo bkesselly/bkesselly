@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/bkesselly"> A Passionate </a>, <a href="https://www.linkedin.com/in/brian-kesselly/">Cybersecurity Professional! </a></h1>
+<h1>Hi, I'm Brian! <br/><a href="https://github.com/bkesselly"> A Passionate <a href="https://www.linkedin.com/in/brian-kesselly/">Cybersecurity Professional! </a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
