@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure/Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/bkesselly/Portfolio/tree/main/SOC%20%2B%20Honeynet%20in%20Azure)
+  - [Creating a Live SOC/ Honeynet in Azure](https://github.com/bkesselly/Portfolio/tree/main/SOC%20%2B%20Honeynet%20in%20Azure)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
