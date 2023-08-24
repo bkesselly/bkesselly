@@ -6,7 +6,7 @@
   - [Creating a Live SOC/ Honeynet in Azure](https://github.com/bkesselly/Portfolio/tree/main/SOC%20%2B%20Honeynet%20in%20Azure)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Password Generator (CLI & GUI)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -25,12 +25,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on getting my bachelor's at WGU.
+- 🌱 I’m currently learning malware analysis.
+- 👯 I’m looking to collaborate on cybersecurity projects.
+- 🤔 I’m looking for help with breaking into cybersecuritu.
+- 💬 Ask me about sports!
+- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I lived in the Midwest my whole life!
 -->
