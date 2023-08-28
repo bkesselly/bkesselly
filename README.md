@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on getting my bachelor's at WGU in Cybersecurity and Informtion Assurance.
 - 🌱 I’m currently learning malware analysis.
 - 👯 I’m looking to collaborate on cybersecurity projects.
-- 🤔 I’m looking for help with breaking into cybersecuritu.
+- 🤔 I’m looking for help with breaking into cybersecurity.
 - 💬 Ask me about sports!
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He/Him
