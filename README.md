@@ -13,11 +13,12 @@
    <b>Bachelor's Degree in Criminal Justice, University of Cincinnati (2021)</b>
 
 <h2><b>Certification:</b></h2>
-  <b>Cybersecurity Analyst (LeveldCareers)</b>
-  <b>Blue Team Level 1 (BTL1), Security Blue Team	</b>
-  <b>ICCA - INE Certified Cloud Associate</b>
-  <b>eLearnSecurity Junior Penetration Tester</b>
-  <b>Google IT Support</b>
+  <div><b>Cybersecurity Analyst (LeveldCareers)</b></div>
+  <div><b>Blue Team Level 1 (BTL1), Security Blue Team</b></div>
+  <div><b>ICCA - INE Certified Cloud Associate</b></div>
+  <div><b>eLearnSecurity Junior Penetration Tester</b></div>
+  <div><b>Google IT Support</b></div>
+
 
 <h2> 🤳 Connect with me:</h2>
 
