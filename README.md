@@ -7,6 +7,17 @@
 
 - <b>Python</b>
   - [Password Generator (CLI & GUI)](https://github.com/bkesselly/Portfolio/tree/main/Password%20Generator)
+ 
+<h2>Education:</h2>
+  <b>Certificate in Cybersecurity Engineering, Flatiron School (2022)</b>
+   <b>Bachelor's Degree in Criminal Justice, University of Cincinnati (2021)</b>
+
+<h2><b>Certification:</b></h2>
+  <b>Cybersecurity Analyst (LeveldCareers)</b>
+  <b>Blue Team Level 1 (BTL1), Security Blue Team	</b>
+  <b>ICCA - INE Certified Cloud Associate</b>
+  <b>eLearnSecurity Junior Penetration Tester</b>
+  <b>Google IT Support</b>
 
 <h2> 🤳 Connect with me:</h2>
 
