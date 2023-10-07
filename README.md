@@ -13,7 +13,6 @@
   <div><b>Bachelor's Degree in Criminal Justice, University of Cincinnati (2021)</b></div>
 
 <h2><b>Certifications:</b></h2>
-  <div><b>Cybersecurity Analyst (LeveldCareers)</b></div>
   <div><b>Blue Team Level 1 (BTL1), Security Blue Team</b></div>
   <div><b>ICCA - INE Certified Cloud Associate</b></div>
   <div><b>eLearnSecurity Junior Penetration Tester</b></div>
